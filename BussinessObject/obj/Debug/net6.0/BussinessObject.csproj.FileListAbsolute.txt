@@ -1,0 +1,11 @@
+C:\Users\hp\Desktop\PRN211\Ass1Solution\BussinessObject\bin\Debug\net6.0\BussinessObject.deps.json
+C:\Users\hp\Desktop\PRN211\Ass1Solution\BussinessObject\bin\Debug\net6.0\BussinessObject.dll
+C:\Users\hp\Desktop\PRN211\Ass1Solution\BussinessObject\bin\Debug\net6.0\BussinessObject.pdb
+C:\Users\hp\Desktop\PRN211\Ass1Solution\BussinessObject\obj\Debug\net6.0\BussinessObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\PRN211\Ass1Solution\BussinessObject\obj\Debug\net6.0\BussinessObject.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\PRN211\Ass1Solution\BussinessObject\obj\Debug\net6.0\BussinessObject.AssemblyInfo.cs
+C:\Users\hp\Desktop\PRN211\Ass1Solution\BussinessObject\obj\Debug\net6.0\BussinessObject.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\PRN211\Ass1Solution\BussinessObject\obj\Debug\net6.0\BussinessObject.dll
+C:\Users\hp\Desktop\PRN211\Ass1Solution\BussinessObject\obj\Debug\net6.0\refint\BussinessObject.dll
+C:\Users\hp\Desktop\PRN211\Ass1Solution\BussinessObject\obj\Debug\net6.0\BussinessObject.pdb
+C:\Users\hp\Desktop\PRN211\Ass1Solution\BussinessObject\obj\Debug\net6.0\ref\BussinessObject.dll

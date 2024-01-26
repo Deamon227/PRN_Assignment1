@@ -1,0 +1,135 @@
+C:\Users\Acer\OneDrive\Máy tính\Assignment-PRN211-Team7\Ass01_MemberManagement\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\Users\Acer\OneDrive\Máy tính\Assignment-PRN211-Team7\Ass01_MemberManagement\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\Users\Acer\OneDrive\Máy tính\Assignment-PRN211-Team7\Ass01_MemberManagement\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\Acer\OneDrive\Máy tính\Assignment-PRN211-Team7\Ass01_MemberManagement\DataAccess\bin\Debug\net6.0\BusinessObject.dll
+C:\Users\Acer\OneDrive\Máy tính\Assignment-PRN211-Team7\Ass01_MemberManagement\DataAccess\bin\Debug\net6.0\BusinessObject.pdb
+C:\Users\Acer\OneDrive\Máy tính\Assignment-PRN211-Team7\Ass01_MemberManagement\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\Acer\OneDrive\Máy tính\Assignment-PRN211-Team7\Ass01_MemberManagement\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\OneDrive\Máy tính\Assignment-PRN211-Team7\Ass01_MemberManagement\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Acer\OneDrive\Máy tính\Assignment-PRN211-Team7\Ass01_MemberManagement\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Users\Acer\OneDrive\Máy tính\Assignment-PRN211-Team7\Ass01_MemberManagement\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Máy tính\Assignment-PRN211-Team7\Ass01_MemberManagement\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+C:\Users\Acer\OneDrive\Máy tính\Assignment-PRN211-Team7\Ass01_MemberManagement\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\Users\Acer\OneDrive\Máy tính\Assignment-PRN211-Team7\Ass01_MemberManagement\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+C:\Users\Acer\OneDrive\Máy tính\Assignment-PRN211-Team7\Ass01_MemberManagement\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\Users\Acer\OneDrive\Máy tính\Assignment-PRN211-Team7\Ass01_MemberManagement\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+C:\Users\DELL\Desktop\PRN211-Assignemnt01-Team7\Assignment01-PRN211-Team7\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\PRN211-Assignemnt01-Team7\Assignment01-PRN211-Team7\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\PRN211-Assignemnt01-Team7\Assignment01-PRN211-Team7\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\PRN211-Assignemnt01-Team7\Assignment01-PRN211-Team7\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Users\DELL\Desktop\PRN211-Assignemnt01-Team7\Assignment01-PRN211-Team7\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\PRN211-Assignemnt01-Team7\Assignment01-PRN211-Team7\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\Users\DELL\Desktop\PRN211-Assignemnt01-Team7\Assignment01-PRN211-Team7\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+C:\Users\DELL\Desktop\PRN211-Assignemnt01-Team7\Assignment01-PRN211-Team7\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\Users\DELL\Desktop\PRN211-Assignemnt01-Team7\Assignment01-PRN211-Team7\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\Users\DELL\Desktop\PRN211-Assignemnt01-Team7\Assignment01-PRN211-Team7\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\Users\DELL\Desktop\PRN211-Assignemnt01-Team7\Assignment01-PRN211-Team7\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\DELL\Desktop\PRN211-Assignemnt01-Team7\Assignment01-PRN211-Team7\DataAccess\bin\Debug\net6.0\BusinessObject.dll
+C:\Users\DELL\Desktop\PRN211-Assignemnt01-Team7\Assignment01-PRN211-Team7\DataAccess\bin\Debug\net6.0\BusinessObject.pdb
+C:\Users\DELL\Desktop\PRN211-Assignemnt01-Team7\Assignment01-PRN211-Team7\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+C:\Users\DELL\Desktop\PRN211-Assignemnt01-Team7\Assignment01-PRN211-Team7\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+C:\Users\huuta\OneDrive\Desktop\Assignment01-PRN211-Team7\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\Users\huuta\OneDrive\Desktop\Assignment01-PRN211-Team7\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\Users\huuta\OneDrive\Desktop\Assignment01-PRN211-Team7\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\huuta\OneDrive\Desktop\Assignment01-PRN211-Team7\DataAccess\bin\Debug\net6.0\BusinessObject.dll
+C:\Users\huuta\OneDrive\Desktop\Assignment01-PRN211-Team7\DataAccess\bin\Debug\net6.0\BusinessObject.pdb
+C:\Users\huuta\OneDrive\Desktop\Assignment01-PRN211-Team7\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\huuta\OneDrive\Desktop\Assignment01-PRN211-Team7\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huuta\OneDrive\Desktop\Assignment01-PRN211-Team7\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\huuta\OneDrive\Desktop\Assignment01-PRN211-Team7\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Users\huuta\OneDrive\Desktop\Assignment01-PRN211-Team7\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\huuta\OneDrive\Desktop\Assignment01-PRN211-Team7\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+C:\Users\huuta\OneDrive\Desktop\Assignment01-PRN211-Team7\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\Users\huuta\OneDrive\Desktop\Assignment01-PRN211-Team7\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+C:\Users\huuta\OneDrive\Desktop\Assignment01-PRN211-Team7\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\Users\huuta\OneDrive\Desktop\Assignment01-PRN211-Team7\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+C:\Users\ADMIN\Desktop\Assignment01-PRN211-Team7\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\Users\ADMIN\Desktop\Assignment01-PRN211-Team7\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\Users\ADMIN\Desktop\Assignment01-PRN211-Team7\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\ADMIN\Desktop\Assignment01-PRN211-Team7\DataAccess\bin\Debug\net6.0\BusinessObject.dll
+C:\Users\ADMIN\Desktop\Assignment01-PRN211-Team7\DataAccess\bin\Debug\net6.0\BusinessObject.pdb
+C:\Users\ADMIN\Desktop\Assignment01-PRN211-Team7\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\Assignment01-PRN211-Team7\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\Assignment01-PRN211-Team7\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\Assignment01-PRN211-Team7\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\Assignment01-PRN211-Team7\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\Assignment01-PRN211-Team7\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+C:\Users\ADMIN\Desktop\Assignment01-PRN211-Team7\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\Users\ADMIN\Desktop\Assignment01-PRN211-Team7\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+C:\Users\ADMIN\Desktop\Assignment01-PRN211-Team7\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\Users\ADMIN\Desktop\Assignment01-PRN211-Team7\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+C:\Users\choip\Downloads\prn211-as-menberManagement\Assignment01-PRN211\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\Users\choip\Downloads\prn211-as-menberManagement\Assignment01-PRN211\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\Users\choip\Downloads\prn211-as-menberManagement\Assignment01-PRN211\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\choip\Downloads\prn211-as-menberManagement\Assignment01-PRN211\DataAccess\bin\Debug\net6.0\BusinessObject.dll
+C:\Users\choip\Downloads\prn211-as-menberManagement\Assignment01-PRN211\DataAccess\bin\Debug\net6.0\BusinessObject.pdb
+C:\Users\choip\Downloads\prn211-as-menberManagement\Assignment01-PRN211\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\choip\Downloads\prn211-as-menberManagement\Assignment01-PRN211\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\choip\Downloads\prn211-as-menberManagement\Assignment01-PRN211\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\choip\Downloads\prn211-as-menberManagement\Assignment01-PRN211\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Users\choip\Downloads\prn211-as-menberManagement\Assignment01-PRN211\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\choip\Downloads\prn211-as-menberManagement\Assignment01-PRN211\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+C:\Users\choip\Downloads\prn211-as-menberManagement\Assignment01-PRN211\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\Users\choip\Downloads\prn211-as-menberManagement\Assignment01-PRN211\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+C:\Users\choip\Downloads\prn211-as-menberManagement\Assignment01-PRN211\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\Users\choip\Downloads\prn211-as-menberManagement\Assignment01-PRN211\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+C:\Users\choip\Downloads\prn211-as-menberManagement\change-render-for-sp\Assignment01-PRN211\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\Users\choip\Downloads\prn211-as-menberManagement\change-render-for-sp\Assignment01-PRN211\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\Users\choip\Downloads\prn211-as-menberManagement\change-render-for-sp\Assignment01-PRN211\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\choip\Downloads\prn211-as-menberManagement\change-render-for-sp\Assignment01-PRN211\DataAccess\bin\Debug\net6.0\BusinessObject.dll
+C:\Users\choip\Downloads\prn211-as-menberManagement\change-render-for-sp\Assignment01-PRN211\DataAccess\bin\Debug\net6.0\BusinessObject.pdb
+C:\Users\choip\Downloads\prn211-as-menberManagement\change-render-for-sp\Assignment01-PRN211\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\choip\Downloads\prn211-as-menberManagement\change-render-for-sp\Assignment01-PRN211\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\choip\Downloads\prn211-as-menberManagement\change-render-for-sp\Assignment01-PRN211\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\choip\Downloads\prn211-as-menberManagement\change-render-for-sp\Assignment01-PRN211\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Users\choip\Downloads\prn211-as-menberManagement\change-render-for-sp\Assignment01-PRN211\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\choip\Downloads\prn211-as-menberManagement\change-render-for-sp\Assignment01-PRN211\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+C:\Users\choip\Downloads\prn211-as-menberManagement\change-render-for-sp\Assignment01-PRN211\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\Users\choip\Downloads\prn211-as-menberManagement\change-render-for-sp\Assignment01-PRN211\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+C:\Users\choip\Downloads\prn211-as-menberManagement\change-render-for-sp\Assignment01-PRN211\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\Users\choip\Downloads\prn211-as-menberManagement\change-render-for-sp\Assignment01-PRN211\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+C:\Users\Administrator\Downloads\Assignment01-PRN211\Assignment01-PRN211\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\Users\Administrator\Downloads\Assignment01-PRN211\Assignment01-PRN211\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\Users\Administrator\Downloads\Assignment01-PRN211\Assignment01-PRN211\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\Administrator\Downloads\Assignment01-PRN211\Assignment01-PRN211\DataAccess\bin\Debug\net6.0\BusinessObject.dll
+C:\Users\Administrator\Downloads\Assignment01-PRN211\Assignment01-PRN211\DataAccess\bin\Debug\net6.0\BusinessObject.pdb
+C:\Users\Administrator\Downloads\Assignment01-PRN211\Assignment01-PRN211\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\Administrator\Downloads\Assignment01-PRN211\Assignment01-PRN211\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Downloads\Assignment01-PRN211\Assignment01-PRN211\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Administrator\Downloads\Assignment01-PRN211\Assignment01-PRN211\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Users\Administrator\Downloads\Assignment01-PRN211\Assignment01-PRN211\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\Assignment01-PRN211\Assignment01-PRN211\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+C:\Users\Administrator\Downloads\Assignment01-PRN211\Assignment01-PRN211\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\Users\Administrator\Downloads\Assignment01-PRN211\Assignment01-PRN211\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+C:\Users\Administrator\Downloads\Assignment01-PRN211\Assignment01-PRN211\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\Users\Administrator\Downloads\Assignment01-PRN211\Assignment01-PRN211\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+C:\Users\phong vu\Downloads\Assignment01-PRN211\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\Users\phong vu\Downloads\Assignment01-PRN211\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\Users\phong vu\Downloads\Assignment01-PRN211\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\phong vu\Downloads\Assignment01-PRN211\DataAccess\bin\Debug\net6.0\BusinessObject.dll
+C:\Users\phong vu\Downloads\Assignment01-PRN211\DataAccess\bin\Debug\net6.0\BusinessObject.pdb
+C:\Users\phong vu\Downloads\Assignment01-PRN211\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\phong vu\Downloads\Assignment01-PRN211\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phong vu\Downloads\Assignment01-PRN211\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\phong vu\Downloads\Assignment01-PRN211\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Users\phong vu\Downloads\Assignment01-PRN211\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\phong vu\Downloads\Assignment01-PRN211\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+C:\Users\phong vu\Downloads\Assignment01-PRN211\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\Users\phong vu\Downloads\Assignment01-PRN211\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+C:\Users\phong vu\Downloads\Assignment01-PRN211\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\Users\phong vu\Downloads\Assignment01-PRN211\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+C:\Users\hp\Desktop\PRN211\Ass1Solution\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\PRN211\Ass1Solution\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\PRN211\Ass1Solution\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\PRN211\Ass1Solution\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Users\hp\Desktop\PRN211\Ass1Solution\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\PRN211\Ass1Solution\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\Users\hp\Desktop\PRN211\Ass1Solution\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+C:\Users\hp\Desktop\PRN211\Ass1Solution\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\Users\hp\Desktop\PRN211\Ass1Solution\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\Users\hp\Desktop\PRN211\Ass1Solution\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\Users\hp\Desktop\PRN211\Ass1Solution\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\hp\Desktop\PRN211\Ass1Solution\DataAccess\bin\Debug\net6.0\BussinessObject.dll
+C:\Users\hp\Desktop\PRN211\Ass1Solution\DataAccess\bin\Debug\net6.0\BussinessObject.pdb
+C:\Users\hp\Desktop\PRN211\Ass1Solution\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+C:\Users\hp\Desktop\PRN211\Ass1Solution\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
